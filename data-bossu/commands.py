@@ -1,3 +1,8 @@
+# Made by Benji Lane
+# email: benjiwolf08@icloud.com
+
+# is used if you want to add anything to the data base manualy but not archaic
+
 import api
 
 
