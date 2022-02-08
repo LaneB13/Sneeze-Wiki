@@ -1,3 +1,6 @@
+# Made by Benji Lane
+# email: benjiwolf08@icloud.com
+
 # This code edits the data base (note data base files are stored in xml)
 
 import os
