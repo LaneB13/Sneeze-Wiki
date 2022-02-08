@@ -1,3 +1,5 @@
+# This code edits the data base (note data base files are stored in xml)
+
 import os
 
 
