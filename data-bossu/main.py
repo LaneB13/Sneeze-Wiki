@@ -1,4 +1,7 @@
-# a data base about for sneezes
+# Made by Benji Lane
+# email: benjiwolf08@icloud.com
+
+# The main file: it starts the server
 
 import api
 from flask import Flask, render_template, request
